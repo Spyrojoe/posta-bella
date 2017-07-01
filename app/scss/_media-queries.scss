@@ -1,0 +1,29 @@
+@media (max-width: 600px){
+  h1{
+    font-size: 4rem;
+  }
+  h2{
+    font-size: 2rem;
+  }
+  .headshot{
+    max-width: 160px;
+  }
+  .grid__object{
+    flex: 1 0 33.3333%;
+    width: 33.3333%
+  }
+  .list--columns{
+    li{
+      flex: 1 0 100%;
+      margin-bottom: 1rem;
+      padding: 0;
+    }
+  }
+}
+@media (max-width: 400px){
+  .grid__object{
+    flex: 1 0 50%;
+    width: 50%;
+    padding-top: 0;
+  }
+}
