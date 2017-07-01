@@ -10,9 +10,9 @@ gulp.task('hello', function() {
 });
 
 gulp.task('sass', function () {
-  return gulp.src('app/scss/*.scss')
+  return gulp.src('app/scss/global.scss')
     .pipe(sass().on('error', sass.logError))
-    .pipe(gulp.dest('app/css'));
+    .pipe(gulp.dest('app/css/style.css'));
 });
 
 gulp.task('sass:watch', function () {
