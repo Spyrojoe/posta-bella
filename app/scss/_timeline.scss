@@ -1,0 +1,19 @@
+.timeline{
+	outline: 1px red dashed;
+}
+.timeline__blocks{
+	list-style: none;
+	display: flex;
+	flex-flow: row wrap;
+	padding: 0;
+	
+	li{
+		flex: 1 1 auto;
+
+		img{
+			display: inline-block;
+			width: 100%;
+			max-height: 40px;
+		}
+	}
+}
