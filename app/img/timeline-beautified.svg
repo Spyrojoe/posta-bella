@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1088.92 39.8">
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_1-2" data-name="Layer 1">
+			<line class="cls-1" x1="1078.9" y1="19.9" x2="5.99" y2="19.9" style="fill:none; stroke:#969495; stroke-linecap:round; stroke-linejoin:round; stroke-width:4px; stroke-dasharray:0 7.98;"/>
+			<path class="cls-2" d="M2,19.9H2m1084.88,0h0" style="fill:none; stroke:#969495; stroke-linecap:round; stroke-linejoin:round; stroke-width:4px;"/>
+			<g id="timeblock-02">
+				<rect class="cls-3" x="132.48" y="0.24" width="171.9" height="39.33" style="fill:#db8d57;"/>
+				<path class="cls-4" d="M131.48,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#cf6721;"/>
+				<path class="cls-4" d="M305.38,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#cf6721;"/>
+			</g>
+			<g id="timeblock-04">
+				<rect class="cls-5" x="360.92" y="0.24" width="171.9" height="39.33" style="fill:#a66e83;"/>
+				<path class="cls-6" d="M359.92,39.8A19.9,19.9,0,1,0,340,19.9a19.9,19.9,0,0,0,19.9,19.9" style="fill:#8c3f61;"/>
+				<path class="cls-6" d="M533.82,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#8c3f61;"/>
+			</g>
+			<g id="timeblock-06">
+				<rect class="cls-7" x="578.62" y="0.24" width="199.06" height="39.33" style="fill:#f0cc84;"/>
+				<path class="cls-8" d="M577.62,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#e9ba56;"/>
+				<path class="cls-8" d="M777.53,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#e9ba56;"/>
+			</g>
+			<g id="timeblock-08">
+				<rect class="cls-9" x="845.5" y="0.24" width="150.23" height="39.33" style="fill:#63909c;"/>
+				<path class="cls-10" d="M844.5,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#2f6b78;"/>
+				<path class="cls-9" d="M1000.4,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#63909c;"/>
+			</g>
+			<g id="timeblock-05">
+				<rect class="cls-11" x="535.14" y="9.9" width="312.14" height="20" style="fill:#1d4467;"/>
+				<path class="cls-12" d="M534.47,33.33A13.43,13.43,0,1,0,521,19.9a13.43,13.43,0,0,0,13.43,13.43" style="fill:#00062f;"/>
+				<path class="cls-12" d="M843.85,33.33A13.43,13.43,0,1,0,830.42,19.9a13.43,13.43,0,0,0,13.43,13.43" style="fill:#00062f;"/>
+			</g>
+			<path id="timeblock-01" class="cls-13" d="M85.74,39.8a19.9,19.9,0,1,0-19.9-19.9,19.9,19.9,0,0,0,19.9,19.9" style="fill:#c00d3e;"/>
+			<g id="timeblock-03">
+				<rect class="cls-14" x="271.9" y="9.9" width="34.37" height="20" style="fill:#cacb6d;"/>
+				<path class="cls-15" d="M271.9,33.33A13.43,13.43,0,1,0,258.46,19.9,13.43,13.43,0,0,0,271.9,33.33" style="fill:#b8bb2c;"/>
+				<path class="cls-15" d="M304.27,33.33A13.43,13.43,0,1,0,290.83,19.9a13.43,13.43,0,0,0,13.43,13.43" style="fill:#b8bb2c;"/>
+			</g>
+			<g id="timeblock-07">
+				<rect class="cls-16" x="758.81" y="13.15" width="82.37" height="13.5" style="fill:#a6afb5;"/>
+				<path class="cls-17" d="M759.07,32.5A12.59,12.59,0,1,0,746.48,19.9,12.59,12.59,0,0,0,759.07,32.5" style="fill:#89959d;"/>
+				<path class="cls-17" d="M843.82,29a9.07,9.07,0,1,0-9.07-9.07A9.07,9.07,0,0,0,843.82,29" style="fill:#89959d;"/>
+			</g>
+			<path class="cls-17" d="M10.08,30A10.07,10.07,0,1,0,0,19.9,10.08,10.08,0,0,0,10.08,30" style="fill:#89959d;"/>
+			<path class="cls-17" d="M1078.85,30a10.07,10.07,0,1,0-10.08-10.07A10.08,10.08,0,0,0,1078.85,30" style="fill:#89959d;"/>
+		</g>
+	</g>
+</svg>

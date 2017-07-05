@@ -126,8 +126,17 @@ header {
         .list--columns li:after {
           display: none; } }
 
+.timeline-stage {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  overflow: scroll; }
+
 .timeline {
-  outline: 1px red dashed; }
+  min-width: 800px; }
+  .timeline:hover {
+    cursor: pointer; }
 
 .timeline__blocks {
   list-style: none;
