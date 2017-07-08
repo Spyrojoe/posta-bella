@@ -126,8 +126,16 @@ header {
         .list--columns li:after {
           display: none; } }
 
-.timeline {
-  outline: 1px red dashed; }
+.timeline-wrap {
+  padding-bottom: 20px;
+  overflow: scroll; }
+
+.timeline-image {
+  display: block;
+  width: 90%;
+  max-width: 1400px;
+  min-width: 700px;
+  margin: 0 auto; }
 
 .timeline__blocks {
   list-style: none;
